@@ -1,0 +1,13 @@
+.counterNumber{
+    display: inline;
+    color: #f39c12;
+    font-weight: 700;
+    font-size: 2em;
+}
+
+.counterText{
+    margin-top: 0.5em;
+    font-size: 1.8em;
+    padding-bottom: 0.5em;
+    color:black;
+}

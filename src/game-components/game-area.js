@@ -3,7 +3,6 @@ import Feedback from './feedback';
 import UserForm from './user-form';
 import GuessCounter from './guess-counter';
 import History from './history';
-import WhatContent from './what-content';
 import './new-game.css';
 
 export default class GameArea extends React.Component {
